@@ -14,6 +14,9 @@ def sqr(s):
     a=s*s
     print(s)
     return
+def divide(a,b):
+    c=a/b
+    return
 import addition
 sum(10,5)
 multiply(10,5)

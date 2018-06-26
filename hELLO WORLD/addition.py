@@ -10,7 +10,7 @@ def rec_area(l,b):
     a=l*b
     print(a)
     return
-def sqr(s)
+def sqr(s):
     a=s*s
     print(s)
     return

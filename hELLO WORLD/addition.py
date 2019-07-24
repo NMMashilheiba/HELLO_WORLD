@@ -17,6 +17,12 @@ def sqr(s):
 def divide(a,b):
     c=a/b
     return
+def absoulute(a):
+    if a>0:
+        return a
+    if a<0:
+        a=a*-1
+        return a
 import addition
 sum(10,5)
 multiply(10,5)
